@@ -1,5 +1,5 @@
-import BookImage1 from './../../Images/BooksImages/new-book-1.png';
-import BookImage2 from './../../Images/BooksImages/book-luv2code-1000.png';
+import BookImage1 from '../../../Images/BooksImages/new-book-1.png';
+import BookImage2 from '../../../Images/BooksImages/book-luv2code-1000.png';
 import { ReturnBook } from './ReturnBook';
 
 export const Carousel = () => {

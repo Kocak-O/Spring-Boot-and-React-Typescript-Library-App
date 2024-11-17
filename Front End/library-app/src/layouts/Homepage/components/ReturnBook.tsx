@@ -1,5 +1,5 @@
 import React from 'react';
-import BookImage1 from './../../Images/BooksImages/new-book-1.png';
+import BookImage1 from '../../../Images/BooksImages/new-book-1.png';
 
 export const ReturnBook = () => {
     return (

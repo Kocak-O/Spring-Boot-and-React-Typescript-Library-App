@@ -4,6 +4,6 @@ Ein einfaches Bibliotheksverwaltungssystem, das es Benutzern ermöglicht, Büche
 
 ## Technologien
 
-- **Frontend**: React, TypeScript, Bootstrap – Für eine responsive und interaktive Benutzeroberfläche.
-- **Backend**: Spring Boot – Für eine zuverlässige und leistungsstarke API.
-- **Datenbank**: H2 - Zum Speichern der Bibliotheksdaten.
+- **Frontend**: React, TypeScript, Bootstrap.
+- **Backend**: Spring Boot.
+- **Datenbank**: MySQL.
